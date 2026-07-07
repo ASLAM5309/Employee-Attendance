@@ -4,6 +4,51 @@ A highly professional, full-stack enterprise web application designed for tracki
 
 ---
 
+# 📸 Application Screenshots
+
+## 🏠 Dashboard
+
+<p align="center">
+  <img src="./screenshots/dashboard.png" alt="Dashboard" width="100%">
+</p>
+
+---
+
+## 👥 Employee Management
+
+<p align="center">
+  <img src="./screenshots/employees.png" alt="Employees" width="100%">
+</p>
+
+---
+
+## 📅 Attendance Management
+
+<p align="center">
+  <img src="./screenshots/attendance.png" alt="Attendance" width="100%">
+</p>
+
+---
+
+## 📊 Reports
+
+<p align="center">
+  <img src="./screenshots/reports.png" alt="Reports" width="100%">
+</p>
+
+---
+
+## ⚙️ Settings
+
+<p align="center">
+  <img src="./screenshots/settings.png" alt="Settings" width="100%">
+</p>
+Screenshot 2026-07-07 113826.png → employees.png
+Screenshot 2026-07-07 113844.png → dashboard.png
+Screenshot 2026-07-07 113906.png → attendance.png
+Screenshot 2026-07-07 113930.png → reports.png
+Screenshot 2026-07-07 113953.png → settings.png
+
 ## 🚀 Key Features
 
 *   **Executive Dashboard & Analytics**: High-fidelity, real-time reporting showing daily attendance status, departmental ratios, monthly active averages, and custom charts using `recharts`.
