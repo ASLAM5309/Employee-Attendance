@@ -3,13 +3,12 @@
 A highly professional, full-stack enterprise web application designed for tracking employee attendance, managing employee profiles, and visualizing organizational analytics. Built with **React 19**, **Express**, **TypeScript**, **PostgreSQL**, and **Drizzle ORM**, this system provides a secure, intuitive experience for administrators and employees.
 
 ---
-
 # 📸 Application Screenshots
 
 ## 🏠 Dashboard
 
 <p align="center">
-  <img src="./screenshots/dashboard.png" alt="Dashboard" width="100%">
+  <img src="https://plain-apac-prod-public.komododecks.com/202607/07/G7xJx2BszGJFOUcYtiJP/image.png" alt="Dashboard" width="100%">
 </p>
 
 ---
@@ -17,7 +16,7 @@ A highly professional, full-stack enterprise web application designed for tracki
 ## 👥 Employee Management
 
 <p align="center">
-  <img src="./screenshots/employees.png" alt="Employees" width="100%">
+  <img src="https://plain-apac-prod-public.komododecks.com/202607/07/sWXgZfntOC7Zo7TZtvw3/image.png" alt="Employee Management" width="100%">
 </p>
 
 ---
@@ -25,7 +24,7 @@ A highly professional, full-stack enterprise web application designed for tracki
 ## 📅 Attendance Management
 
 <p align="center">
-  <img src="./screenshots/attendance.png" alt="Attendance" width="100%">
+  <img src="https://plain-apac-prod-public.komododecks.com/202607/07/hOBWYzWoatsGBEoQM7Q7/image.png" alt="Attendance Management" width="100%">
 </p>
 
 ---
@@ -33,7 +32,7 @@ A highly professional, full-stack enterprise web application designed for tracki
 ## 📊 Reports
 
 <p align="center">
-  <img src="./screenshots/reports.png" alt="Reports" width="100%">
+  <img src="https://plain-apac-prod-public.komododecks.com/202607/07/5BhFhjSCtG1FnUfZVtif/image.png" alt="Reports" width="100%">
 </p>
 
 ---
@@ -41,13 +40,8 @@ A highly professional, full-stack enterprise web application designed for tracki
 ## ⚙️ Settings
 
 <p align="center">
-  <img src="./screenshots/settings.png" alt="Settings" width="100%">
+  <img src="https://plain-apac-prod-public.komododecks.com/202607/07/8bbMvgOAH3cOz2LItmqx/image.png" alt="Settings" width="100%">
 </p>
-Screenshot 2026-07-07 113826.png → employees.png
-Screenshot 2026-07-07 113844.png → dashboard.png
-Screenshot 2026-07-07 113906.png → attendance.png
-Screenshot 2026-07-07 113930.png → reports.png
-Screenshot 2026-07-07 113953.png → settings.png
 
 ## 🚀 Key Features
 
