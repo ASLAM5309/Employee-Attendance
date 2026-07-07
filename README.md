@@ -43,6 +43,19 @@ A highly professional, full-stack enterprise web application designed for tracki
   <img src="https://plain-apac-prod-public.komododecks.com/202607/07/8bbMvgOAH3cOz2LItmqx/image.png" alt="Settings" width="100%">
 </p>
 
+# 🌐 Live Demo
+
+🚀 **Try the application here:**
+
+<p align="center">
+  <a href="https://employee-attendance-1018499831756.asia-southeast1.run.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Employee%20Attendance%20System-0F7C90?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
+  </a>
+</p>
+
+**🔗 Live URL:**  
+https://employee-attendance-1018499831756.asia-southeast1.run.app/
+
 ## 🚀 Key Features
 
 *   **Executive Dashboard & Analytics**: High-fidelity, real-time reporting showing daily attendance status, departmental ratios, monthly active averages, and custom charts using `recharts`.
